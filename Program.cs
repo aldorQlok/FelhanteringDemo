@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Användarnamn");
+            string name = "Aldor";
+
+            Console.WriteLine("Lösenord");
+            string password = "password123";
+
+
         }
     }
 }
