@@ -10,7 +10,7 @@
             Console.WriteLine("Lösenord");
             string password = "password123";
 
-
+            Console.WriteLine("Du är inloggad!");
         }
     }
 }
